@@ -1,2 +1,5 @@
-second bug is blh blha
+second bug fixed
 
+it is ready
+
+another line
